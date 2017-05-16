@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict1
+=======
+conflict2
+>>>>>>> Branch_2
